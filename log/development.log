@@ -6779,3 +6779,6 @@ Processing by PostsController#show as HTML
   [1m[36mCACHE (0.0ms)[0m  [1m[34mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT ?[0m  [["id", 15], ["LIMIT", 1]]
   Rendering posts/show.html.erb within layouts/application
   Rendered posts/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 48ms (Views: 28.6ms | ActiveRecord: 1.3ms)
+
+
