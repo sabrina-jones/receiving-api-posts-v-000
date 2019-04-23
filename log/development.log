@@ -6741,3 +6741,11 @@ Processing by PostsController#new as HTML
 Completed 200 OK in 411ms (Views: 381.4ms | ActiveRecord: 0.8ms)
 
 
+Started GET "/posts/new" for 159.140.252.109 at 2019-04-23 17:31:09 +0000
+Cannot render console from 159.140.252.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
